@@ -5,8 +5,7 @@ You can find my LinkedIn profile at the following link [![Linkedin](https://i.st
 
 - 🔭 I'm a Software Machine Learning Engineer and AI enthusiast
 - 🌱 I mainly work with Python, PyTorch, Pandas and NumPy
-- 👯 You can reach me at stylianos.kliafas@gmail.com
-- ⚡ Fun fact: I love basketball, snowboarding and PAOK FC
+- ⚡ You can reach me at stylianos.kliafas@gmail.com
 
 ### MyStack:
 
